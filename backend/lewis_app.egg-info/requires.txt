@@ -1,0 +1,10 @@
+flask
+flask-sqlalchemy
+SQLAlchemy-serializer
+sqlalchemy-utils
+flask-migrate
+flask-script
+psycopg2
+pyjwt
+jsonschema
+flask-restful
